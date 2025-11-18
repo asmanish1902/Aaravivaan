@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">Full Stack Developer | PHP • Node.js • Frontend</h3>
 
 ---
@@ -21,8 +21,8 @@
 - MySQL • MariaDB  
 
 #### **Frontend**
-- HTML5 • CSS3 • JavaScript  
-- jQuery • Ajax • Bootstrap  
+- HTML5 • CSS3 • JavaScript • ReactJS
+- jQuery • Ajax • Bootstrap • Tailwind
 - JSON • API Integrations  
 
 #### **Tools & Others**
@@ -34,20 +34,9 @@
 
 ---
 
-### 📂 Featured Projects  
-*(Add your links here)*  
-
-- **Peppinosdosa Website** – Frontend + API integration  
-- **Summarize Case Using Agentforce** – Full app setup & deployment  
-- **Invoice & PO Number Management System** – Backend CRUD + Logging  
-- **Attendance/Punch Fix Modules** – Automated workflow  
-
----
-
 ### 🤝 Connect With Me
 - 📧 Email: **asmanishsingh87@gmail.com**  
-- 💼 LinkedIn: *(optional)*  
-- 🌐 Portfolio: *(optional)*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/manish-kumar-1b46b0157?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
 
 ---
 
